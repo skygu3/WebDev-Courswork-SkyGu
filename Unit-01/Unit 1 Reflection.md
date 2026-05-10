@@ -1,8 +1,7 @@
 # Unit 1 Reflection
 
 [Reflect on your journey here]
-
-This week I visited Google for train schedules and weather in Shanghai, YouTube for cooking videos and music, Reddit for local recommendations and coding discussions, Gmail for emails, and Amazon.co.jp to order headphones.
-I’d put most of them under Information, with YouTube falling into Entertainment and some Reddit/Gmail use for Social Connections.
-Life without these sites would feel slower and more disconnected. I’d have to rely on paper schedules, TV, phone calls, or going out in person for everything. It would be possible, but much less convenient and efficient.
-The web has become woven into daily life so naturally that we barely notice how powerful it is. Learning its history—from ARPANET and packet switching, to Tim Berners-Lee creating the World Wide Web—makes me appreciate how this open, resilient system connects the world. I’m excited to move beyond just using the web and start building my own pages with HTML, CSS, and JavaScript in this course.
+In this unit, I learned the basics of what the web actually is and how it developed over time. I got that the Internet and the World Wide Web are not the same, and that the web is just one part of the Internet.
+One thing I learned was how the Internet started as ARPANET and was designed to still work even if parts of it failed. It was a new knowledge for me and it made me realize how much technology is behind something we use every day.
+I also thought more about why people use websites, like for information, entertainment, and communication. This made me more aware of how important websites are in daily life.
+Overall, this unit helped me understand the background of the web and gave me a better foundation for learning web design later on.

@@ -5,6 +5,7 @@
     <head>
         <title>My Web Page</title>
         <link rel="icon" type="image/png" href="barca icon.png">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <style>
             body {
                 background-color:#f0f4f8;
@@ -19,6 +20,7 @@
             h2 { font-size: 32px; }
             a { font-size: 19px;
                 color: darkblue;
+                padding: 4px 8px; 
             }
             a:hover {
                 color: white;
@@ -37,6 +39,13 @@
                 margin: 20px 0;
                 border-radius: 10px;
                 border: 1px solid #ccc;
+            }
+            footer {
+                text-align: center;
+                margin-top: 40px;
+                padding-top: 16px;
+                border-top: 1px solid #ccc;
+                color: gray;
             }
         </style>
     </head>
@@ -69,18 +78,26 @@
 
         <hr>
 
-        <h2>My Goals</h2>
+        <div class="card">
 
-        <p>This year I want to:</p>
+            <h2>My Goals</h2>
 
-        <ol>
-            <li>Finish high school</li>
-            <li>Learn more coding stuffs</li>
-        </ol>
+            <p>This year I want to:</p>
+
+            <ol>
+                <li>Finish high school</li>
+                <li>Learn more coding stuffs</li>
+            </ol>
+
+        </div>
 
         <hr>
 
         <a href="https://github.com/skygu3?tab=repositories" target="_blank">My GitHub Repositories</a>
+
+        <footer>
+            <small>&copy; 2026 Sky Gu. All rights reserved.</small>
+        </footer>
 
     </body>
 </html>

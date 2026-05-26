@@ -1,7 +1,6 @@
 # Unit 11 Reflection
 
 [Reflect on your journey here]
-# Unit 11 Reflection
 
 In this unit, I reflected on everything I learned throughout the course. From HTML and CSS basics to JavaScript, the Design Thinking process, accessibility, and the UN Global Goals. It was the final unit, so it was more about looking back at my progress than learning new things.
 
